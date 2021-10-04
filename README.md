@@ -1,1 +1,1 @@
-# parity_checking
+# Updated parity checking code in C 
