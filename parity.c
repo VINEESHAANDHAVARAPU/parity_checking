@@ -3,7 +3,7 @@
 bool getParity(unsigned int n)
 {
     bool parity = 0;
-    while (n)
+    while (n!=0)
     {
         parity = !parity;
         n      = n & (n - 1);
